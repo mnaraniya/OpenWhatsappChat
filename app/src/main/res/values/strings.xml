@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Whatsapp Chat</string>
+    <string name="enter_number">Enter a number to chat</string>
+    <string name="err_tel">Enter a valid phone number</string>
+</resources>
